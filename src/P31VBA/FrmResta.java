@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package g4s22p4hrlfe;
+package P31VBA;
 
 /**
  *
- * @author Ana Cecilia
+ * 
  */
 public class FrmResta extends javax.swing.JInternalFrame {
 

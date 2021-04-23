@@ -3,18 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package g4s22p4hrlfe;
+package P31VBA;
+
+import P31VBA.FRMPrincipal;
 
 /**
  *
- * @author Ana Cecilia
+ * @author Daliux
  */
-public class G4s22p4HRLFe {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+public class P31VBA {
+    
+       public static void main(String[] args) {
         // TODO code application logic here
         new FRMPrincipal().setVisible(true);
     }

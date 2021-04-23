@@ -1,4 +1,4 @@
-package g4s22p4hrlfe;
+package P31VBA;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -8,7 +8,7 @@ package g4s22p4hrlfe;
 
 /**
  *
- * @author Ana Cecilia
+ *
  */
 public class FRMPrincipal extends javax.swing.JFrame {
 
